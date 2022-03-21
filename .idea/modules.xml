@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/domain-consumer/domain-consumer.iml" filepath="$PROJECT_DIR$/domain-consumer/domain-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain-producer/domain-producer.iml" filepath="$PROJECT_DIR$/domain-producer/domain-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain-service/domain-service.iml" filepath="$PROJECT_DIR$/domain-service/domain-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-kafka-streams.iml" filepath="$PROJECT_DIR$/.idea/spring-kafka-streams.iml" />
+    </modules>
+  </component>
+</project>
